@@ -78,4 +78,4 @@ bot.on('raw', event => {
     }   
 });
 
-bot.login(process.env.TOKEN);
+bot.login(NjE4OTk0OTgwODAyOTIwNDU4.XX_cqA.4p2sSC3SNkel_vwN7AcpjSjw78E);
