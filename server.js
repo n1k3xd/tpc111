@@ -76,4 +76,4 @@ bot.on('raw', event => {
     }   
 });
 
-bot.login(NjE4OTk0OTgwODAyOTIwNDU4.XX_cqA.4p2sSC3SNkel_vwN7AcpjSjw78E);
+bot.login("NjE4OTk0OTgwODAyOTIwNDU4.XX_cqA.4p2sSC3SNkel_vwN7AcpjSjw78E");
