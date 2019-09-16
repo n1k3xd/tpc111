@@ -6,9 +6,7 @@ app.get("/", (request, response) => {
   response.sendStatus(400);
 });
 app.listen(3000);
-setInterval(() => {
-  http.get(`https://www.google.com/`);
-}, 280000);
+
 
 const setupCMD = "~setreactionrole"
 let initialMessage = `**React to the messages below to receive the associated role. If you would like to remove the role, simply remove your reaction!**`;
